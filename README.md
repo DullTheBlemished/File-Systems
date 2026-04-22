@@ -1,1 +1,13 @@
 # File-Systems
+this is some file systems because im lazy as hell (for school) so ye
+
+SCHOOL SUBJECT FILES AUTOMATION SYSTEM (SFAS) i am lazy, but the way i deal with it is to spend more time making an automation system to do it for me then actually doing it, so i hpooed staight to gemini and l learnt the very important os.makedirs thingy anways enough yapping heres how the code
+goes: so my linear subjects are in a list before hand, then i just .append to that list with inputs, four times with os.system cls for idk but ye and it adds the 4 non-linear things into that, also made it .lower so i can .title it later, and then its just for sub in subject make that folder using makedirs and yea.
+
+unpon finishing this short like 30 line code, i thought i was set for the next 3 years! but then i went to test it, and GUESS WHAT, THE BUM AHH SCHOOL BLOCKED THE FUCKING THINGY IDKW HAT IT IS BUT YE I CANT USE IT, bruhhhh. DISCLAIMER: i went back on my code an hour after i made this and added exist_ok = true as the ai told me to, idk whatt it does and that particular part is ai, not mine, it still didnt make it work btw) (UPDATEEEE) I FINALLY GOT IT TO WORK AFTER GETTING THE AI TO DETERMINE THE CORRECT FILES AND STUFF, it still takea min to show up, however) (UPDATEE 2) added a system of asking for the student id so it can work on ANYONE in my school, not just me, and then i added a year thing so it can work for any year level in my school. (UPDATE 3) i forgot to mention it did work but i thought i didnt cuz it was making the damn files in sum 'invisible desktop thingy'
+
+19/3/2026
+SCHOOL FILE DELETION SYSTEM (AFDS) what is light without darkness? heat without cold? just kidding, i am NOT socrates, i made this because one of my good friend has more then 70 empty folders on his laptop so i cant even rn vs code on it, and also partly because like gemini said - employers love these lazy system
+the code: this was WAYY harder then the SFAS to code, i had to learn to use os.walk and learn how it returned 3 seperate lists of the stuff in ur computer (or the destination, that is) that is: dirs, root and files, now actually, i lied, it was easier to code then the SFAS but i only found that out after knee deep in the len() logic to check if the files were empty, all while not realising try/exept blocks are right there for me to use, so thats fun, re writing and deleating like 10 lines of code after getting my brain fried thinking about the logic, anyways it works but like the SFAS its still hard-coded or wahtever you fancy people call it, meaning it only works for my school
+
+no conclusion to be written here lmao -20/3/2026
